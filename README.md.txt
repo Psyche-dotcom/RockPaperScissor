@@ -1,0 +1,1 @@
+this is a rock paper scissors game. rock win scissor, scissor win paper and paper win rock. when there is thesame selection by player and computer its a tie.
